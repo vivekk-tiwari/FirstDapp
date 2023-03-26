@@ -10,5 +10,5 @@ contract MoodDiary {
     // Created getMood function to get the output of mood
     function getMood() public view returns(string memory){
         return mood;
-    }c
+    }
 }
